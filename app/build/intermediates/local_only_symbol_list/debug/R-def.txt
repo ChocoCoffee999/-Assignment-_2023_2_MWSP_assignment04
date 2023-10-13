@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable result
+id btn_load
+id btn_save
+id imgView
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.MWSP_assignment04
+style Theme.MWSP_assignment04
+xml backup_rules
+xml data_extraction_rules
